@@ -14,6 +14,7 @@ def main_avance_2():
 
 
 def login_function():
+    print('Modify step 1')
     return 'Login function'
 
 
