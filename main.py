@@ -45,3 +45,6 @@ def payement():
     return True
 
 print()
+
+def dev_conflit():
+    return False
