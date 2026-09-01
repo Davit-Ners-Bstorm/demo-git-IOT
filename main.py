@@ -2,3 +2,6 @@ def first_function():
     return "Hello IOT"
 
 print('Test merge inverse')
+
+def main_avance():
+    return True
