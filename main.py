@@ -24,3 +24,6 @@ def dev_avance_2():
 
 def function_1():
     return True
+
+def correction():
+    return True
