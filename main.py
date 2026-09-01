@@ -5,3 +5,6 @@ print('Test merge inverse')
 
 def main_avance():
     return True
+
+def dev_avance():
+    return False
