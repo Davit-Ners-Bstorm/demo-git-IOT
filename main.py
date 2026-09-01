@@ -13,7 +13,8 @@ def main_avance_2():
     return True
 
 
-
+def login_function():
+    return 'Login function'
 
 
 
