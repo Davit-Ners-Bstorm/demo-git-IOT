@@ -27,3 +27,6 @@ def function_1():
 
 def correction():
     return True
+
+def fix_important():
+    return True
