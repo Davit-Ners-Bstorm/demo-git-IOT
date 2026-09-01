@@ -33,3 +33,6 @@ def fix_important():
 
 def function2():
     return True
+
+def function3():
+    return True
