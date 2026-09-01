@@ -46,5 +46,8 @@ def payement():
 
 print()
 
+def conflit_main():
+    return True
+
 def dev_conflit():
     return False
