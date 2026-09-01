@@ -36,3 +36,6 @@ def function2():
 
 def function3():
     return True
+
+def function_final_v2():
+    return True
