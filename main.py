@@ -21,3 +21,6 @@ def login_function():
 
 def dev_avance_2():
     return False
+
+def function_1():
+    return True
