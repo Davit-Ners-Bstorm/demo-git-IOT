@@ -30,3 +30,6 @@ def correction():
 
 def fix_important():
     return True
+
+def function2():
+    return True
