@@ -39,3 +39,7 @@ def function3():
 
 def function_final_v2():
     return True
+
+def payement():
+    print('Petit ajout')
+    return True
