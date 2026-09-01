@@ -8,3 +8,6 @@ def main_avance():
 
 def dev_avance():
     return False
+
+def main_avance_2():
+    return True
