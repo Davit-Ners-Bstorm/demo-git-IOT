@@ -43,3 +43,10 @@ def function_final_v2():
 def payement():
     print('Petit ajout')
     return True
+
+def ajout_changement():
+    print()
+    print()
+    print()
+    print()
+    return True
